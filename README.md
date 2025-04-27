@@ -16,3 +16,11 @@ Website: [magodaspromocoes.com.br](https://www.magodaspromocoes.com.br)
 - **Coupon**: The algorithm is designed to efficiently search and retrieve discount coupons from various online store platforms, helping users save time and money.
 - **Interest-Based Communities**: UsesOrganizamos uma variedade de produtos, ofertas, itens e categorias em comunidades. Procure aquela que melhor atende às suas necessidades e interesse.
 - **Social Commerce Tracker**: Viral product detection system monitoring social media engagement spikes and purchase intent signals.
+
+## 🔹 Tech Stack
+- **Back-End:** PHP
+- **Front-End:** HTML5, CSS3, JS, Jquery
+- **Database:** MySQL
+- **PWA:** Javascript
+- **Agile:** Kanban
+- **GIT:** Bitbucket(Sourcetree) and now: GitHub
